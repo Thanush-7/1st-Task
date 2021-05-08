@@ -14,7 +14,7 @@ function validate()
       if(pattern.test(email)==true && pattern1.test(password)==true){
           console.log("True");
           alert("You are good");
-          window.open("index.html", "_blank");
+          window.open("index1.html", "_blank");
       }
       else{
           console.log("False");
