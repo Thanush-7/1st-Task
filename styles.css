@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.shinj{
+    text-align: center;
+    background-color: rgb(233, 231, 231);
+    margin:10px;
+    padding:50px;
+    border-radius: 5px;
+    width:73%;
+}
+.shinj p{
+    color:black;
+    font-size: 50px;
+    font-weight: 200;
+}

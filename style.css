@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+.Thanush{
+    background-color: rgb(4, 252, 252);
+    margin:30px;
+    padding:50px;
+    border-radius: 5px;
+    width:80%;
+}
+.Thanush p{
+    color:black;
+    font-size: 20px;
+    font-weight: 100;
+    border-radius: 25px;
+}
+.box{
+    text-align: center;
+    margin: 10px;
+    padding:50px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: rgb(178, 180, 180);
+}
+
